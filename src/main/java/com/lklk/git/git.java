@@ -11,6 +11,7 @@ public class git {
         System.out.println("你好，git4");
         System.out.println("你好，master");
         System.out.println("你好，hot-fix");
+        System.out.println("你好，push");
 
     }
 }
